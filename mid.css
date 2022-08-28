@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(67, 67, 120); 
+}
+.widcontainer{
+    display: none;
+    
+}
+.midcontainer{
+    display: flex;
+    display: inline-block;
+    text-align: center;
+}
+.smcontainer{
+    display: none;
+}
+.shot{
+    color: white;
+    text-decoration: underline;
+    font-size: 30pt;
+    text-align: center;  
+}
+.mark{
+    width:250px;
+    height:350px;
+}
+.sp{
+    color: white;   
+}
+a{
+    color:white;
+    
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+}
+.widcontainer{
+    display: none;
+}
+.midcontainer{
+    display: none;
+}
+.smcontainer{
+    display: flex;
+    display: inline-block;
+    text-align: center;
+
+}
+.save{
+    color: blue;
+    text-decoration: underline;
+    font-size: 30pt;
+}
+.sv{
+    width: 250px;
+    height:350px;
+}
+.svp{
+    color: blue;
+}
+ 
